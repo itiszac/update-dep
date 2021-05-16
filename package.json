@@ -1,0 +1,11 @@
+{
+  "name": "update-dep",
+  "version": "1.0.0",
+  "description": "Updates outdated node dependencies",
+  "main": "update.js",
+  "scripts": {
+    "update": "node update.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
